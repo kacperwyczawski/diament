@@ -41,5 +41,5 @@ int main() {
 /*
 resources:
 dynamic programming/tabulation
-https://youtu.be/oBt53YbR9Kk?t=11453
+https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11453s
 */
