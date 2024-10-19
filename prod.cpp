@@ -37,3 +37,9 @@ int main() {
     cout << g[a.size() - 1][b.size() - 1];
     return 0;
 }
+
+/*
+resources:
+dynamic programming/tabulation
+https://youtu.be/oBt53YbR9Kk?t=11453
+*/
